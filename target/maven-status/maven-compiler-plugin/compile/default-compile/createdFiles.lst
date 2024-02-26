@@ -1,0 +1,8 @@
+org/acme/dalpra/GreetingResource.class
+org/acme/dalpra/security/keycloak/authentication/AdminResource.class
+org/acme/dalpra/base/persone/entity/Persone.class
+org/acme/dalpra/base/persone/endpoint/PersoneEndpoint.class
+org/acme/dalpra/security/keycloak/authentication/UserResource$User.class
+org/acme/dalpra/security/keycloak/authentication/PublicResource.class
+org/acme/dalpra/security/keycloak/authentication/UserResource.class
+org/acme/dalpra/base/persone/resource/PersoneResource.class
