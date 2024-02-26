@@ -1,0 +1,7 @@
+/home/ddalpra/vscode/dd-suite/dd34pp/src/main/java/org/acme/dalpra/GreetingResource.java
+/home/ddalpra/vscode/dd-suite/dd34pp/src/main/java/org/acme/dalpra/base/persone/endpoint/PersoneEndpoint.java
+/home/ddalpra/vscode/dd-suite/dd34pp/src/main/java/org/acme/dalpra/base/persone/entity/Persone.java
+/home/ddalpra/vscode/dd-suite/dd34pp/src/main/java/org/acme/dalpra/base/persone/resource/PersoneResource.java
+/home/ddalpra/vscode/dd-suite/dd34pp/src/main/java/org/acme/dalpra/security/keycloak/authentication/AdminResource.java
+/home/ddalpra/vscode/dd-suite/dd34pp/src/main/java/org/acme/dalpra/security/keycloak/authentication/PublicResource.java
+/home/ddalpra/vscode/dd-suite/dd34pp/src/main/java/org/acme/dalpra/security/keycloak/authentication/UserResource.java
